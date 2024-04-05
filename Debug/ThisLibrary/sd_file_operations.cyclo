@@ -1,0 +1,2 @@
+../ThisLibrary/sd_file_operations.c:29:10:SDFileGetSize	2
+../ThisLibrary/sd_file_operations.c:58:16:readFileAndProcessData	7

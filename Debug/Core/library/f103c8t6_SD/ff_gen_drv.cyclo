@@ -1,0 +1,5 @@
+../Core/library/f103c8t6_SD/ff_gen_drv.c:68:9:FATFS_LinkDriverEx	2
+../Core/library/f103c8t6_SD/ff_gen_drv.c:97:9:FATFS_LinkDriver	1
+../Core/library/f103c8t6_SD/ff_gen_drv.c:109:9:FATFS_UnLinkDriverEx	3
+../Core/library/f103c8t6_SD/ff_gen_drv.c:135:9:FATFS_UnLinkDriver	1
+../Core/library/f103c8t6_SD/ff_gen_drv.c:145:9:FATFS_GetAttachedDriversNbr	1
